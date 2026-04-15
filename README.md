@@ -56,8 +56,8 @@
 
 ## 📫 Connect With Me
 - 📧 Email: yvspavankumar  
-- 🌐 Portfolio: [Coming Soon](https://yvs-pavan-kumar-portfolio.netlify.app/)  
-- 💼 LinkedIn: [(Add your link)](https://www.linkedin.com/in/yelchuri-venkata-sai-pavan-kumar-2a8b712a9/)
+- 🌐 Portfolio: (https://yvs-pavan-kumar-portfolio.netlify.app/)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/yelchuri-venkata-sai-pavan-kumar-2a8b712a9/)
 
 ---
 
