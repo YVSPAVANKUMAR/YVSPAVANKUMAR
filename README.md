@@ -34,7 +34,7 @@
 -🌍 **Earthquake Detection System** – Data analysis project using Jupyter Notebook.
 -❌⭕ **Tic Tac Toe Game** – Interactive browser game using JavaScript.
 -🛫 **Flight Booking App** – Simple booking interface with dynamic features.
--🧠 **Quiz Game** – Web-based quiz application with scoring system.
+-🧠 **Quiz Game** – Web-based quiz application with scoring system.**
   
 
 ---
