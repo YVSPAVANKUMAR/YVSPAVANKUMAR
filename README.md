@@ -9,7 +9,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 Graduate exploring **Tech + Business Opportunities**
-- 🛒 Currently building **E-commerce Platform (Algomart)**
 - 🤖 Interested in **AI, Automation & Smart Systems**
 - 💡 Love solving real-world problems with code
 - 📈 Focused on growth, consistency & learning
@@ -24,10 +23,18 @@
 ---
 
 ## 🚀 Projects
-- 🛒 **Algomart** – Full Stack E-commerce Website  
-- 📊 **Personal Finance Tracker**  
-- 🧾 **Invoice Generator (PDF Export)**  
-- 💬 **Real-Time Chat Application**  
+-🤖 **AI Chatbots for Colleges** – Built chatbot solutions for college-related queries using web technologies
+-🌐 **My Portfolio** – Personal portfolio website showcasing projects and skills
+-🗳️ **Smart Voting System Using Face Recognition** – Secure voting system using Python and face recognition
+-🛒 **Algomart Frontend** – Responsive e-commerce frontend with modern UI
+-🛍️ **Algomart E-commerce** – Full stack e-commerce application with product and cart features
+-✈️ **Travel Agency Website** – Travel booking interface using TypeScript
+-🏫 **Institute Hub** – Platform for managing institute-related information
+-📋 **To Do List App** – Task management application using JavaScript
+-🌍 **Earthquake Detection System** – Data analysis project using Jupyter Notebook
+-❌⭕ **Tic Tac Toe Game** – Interactive browser game using JavaScript
+-🛫 **Flight Booking App** – Simple booking interface with dynamic features
+-🧠 **Quiz Game** – Web-based quiz application with scoring system  
   
 
 ---
